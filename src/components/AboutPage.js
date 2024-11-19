@@ -5,7 +5,7 @@ const AboutUs = () => {
   return (
     <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
       <Typography variant="h5" component="h2" gutterBottom>
-        Our Missions
+        Our Mission
       </Typography>
       <Typography variant="body1" paragraph>
         At ICSW Kerala Division, our mission is to empower communities through quality education, advocacy, and support. We believe in fostering an inclusive environment where everyone has access to the resources they need to succeed.

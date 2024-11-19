@@ -17,7 +17,7 @@ const programs = [
  
   {
     
-    imgSrc: '../nngos.png', // Replace with your image path
+    imgSrc: '../nngos.png', 
     title: 'Activities of ICSW Kerala',
     description: '•	E-News  letter-a forum to disseminate best practices of the NGOs.',
     link: '/programs/history',
